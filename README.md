@@ -8,7 +8,7 @@ The following technologies are being used:
 - Junit test
 - Hamcrest testing
 
-The task "Dom manipulation And events" is unfinished, but some of the same methods are being used in the Assignment for friday 6th of September. Such as travis deployment and rest end points testing. The assginments from monday are also done in the friday project. 
+The task "Dom manipulation And events" is unfinished, but some of the same methods are being used in the Assignment for friday 6th of September. Such as travis deployment and rest end points testing and fetching from an url. The assginments from monday are also done in the friday project. So we have done most of the assginments in the friday project. 
 The javascript assginments are the folder  03_onsdag and are all done. 
 
 
