@@ -18,3 +18,4 @@ status on the friday project.
 
 
  
+link to friday https://rhemmingsen.com/rest-jpa-devops-starter/
